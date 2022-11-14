@@ -1,0 +1,56 @@
+/* HTML elements */
+
+body {
+    background-color: #393e46;
+    text-align: center;
+    font-family: 'Indie Flower', cursive;
+}
+
+h1 {
+    font-family: 'Lobster', cursive;
+    font-size: 8rem;
+    margin: 30px;
+    text-shadow: 5px 0 #232931;
+}
+
+img {
+    width: 60%;
+    padding: 3% 0% 10%;
+}
+
+.btn {
+    font-family: 'Teko', sans-serif;
+    margin-top: 5%;
+    font-size: 4rem;
+}
+
+.btn:hover {
+    background-color: maroon;
+    color: #eee;
+}
+
+footer {
+    color: #eee;
+}
+
+/* Site-wide Classes */
+
+.container {
+    color: #4ecca3;
+    width: 70%;
+}
+
+.invisible {
+    visibility: hidden;
+    position: absolute;
+}
+
+.dice {
+    margin: 5% 0%;
+    padding: 0% 3%;
+    font-size: 3rem;
+}
+
+.fa-solid {
+    color: gold;
+}
